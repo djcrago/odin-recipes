@@ -4,13 +4,23 @@
     text-align: center;
 }
 
+#header {
+    font-size: 60px;
+    text-align: center;
+}
+
 body{
     font-family: 'Times New Roman', Times, serif;
 }
 
-img {
+img.wide {
     height: auto;
     width: 600px;
+}
+
+img.tall {
+    height: auto;
+    width: 200px;
 }
 
 .text {
@@ -23,7 +33,8 @@ img {
     font-size: 15px;
 }
 
-h2 {
+h2,
+h3 {
     font-size: 30px;
 }
 
