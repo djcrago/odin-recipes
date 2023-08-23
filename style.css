@@ -1,0 +1,32 @@
+#title {
+    font-family: 'Brush Script MT', cursive, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+.text {
+    background-color: rgba(255, 247, 139, 0.735);
+    font-size: 25px;
+}
+
+.sidetext {
+    background-color: rgba(255, 247, 139, 0.735);
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+li {
+    font-size: 20px;
+}
