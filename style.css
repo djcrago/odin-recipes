@@ -11,6 +11,7 @@
 
 body{
     font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(255, 247, 139, 0.735);
 }
 
 img {
@@ -19,7 +20,6 @@ img {
 }
 
 .text {
-    background-color: rgba(255, 247, 139, 0.735);
     font-size: 25px;
 }
 
