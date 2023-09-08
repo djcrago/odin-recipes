@@ -14,15 +14,14 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: rgba(255, 247, 139, 0.735);
+    font-size: 25px;
 }
 
 img {
     height: auto;
     width: 600px;
-}
-
-.text {
-    font-size: 25px;
+    margin: auto;
+    display: block;
 }
 
 .sidetext {
