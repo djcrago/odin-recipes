@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-body{
+body {
     font-family: 'Times New Roman', Times, serif;
     background-color: rgba(255, 247, 139, 0.735);
 }
@@ -47,4 +47,11 @@ button {
 
 .homerecipes {
     display: inline-block;
+}
+
+.homeimg {
+    width: auto;
+    height: 70px;
+    display: block;
+    margin: auto;
 }
