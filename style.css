@@ -35,3 +35,9 @@ h3 {
 li {
     font-size: 20px;
 }
+
+.seasalt,
+.sailing,
+.paopu {
+    border: 2px solid blue;
+}
