@@ -40,4 +40,13 @@ li {
 .sailing,
 .paopu {
     border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.homeimg {
+    width: 75px;
+    height: auto;
 }
