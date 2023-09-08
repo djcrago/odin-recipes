@@ -4,9 +4,11 @@
     text-align: center;
 }
 
-#header {
-    font-size: 60px;
+.header {
+    font-size: 55px;
     text-align: center;
+    border: 2px solid black;
+    background-color: #fff;
 }
 
 body {
